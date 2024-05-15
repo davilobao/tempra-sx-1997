@@ -17,3 +17,30 @@ Na pasta "Fotos do Início" teremos algumas fotos de como eu peguei o carro do a
 7. Tapeçaria
 8. Acessórios
 9. Ferramentas Necessárias
+---
+
+# 1. Planejamento do Projeto
+
+---
+
+# 2. Checklist do que é necessário
+
+---
+
+# 3. Definindo Prioridades
+
+---
+
+# 4. Auto-Elétrica
+
+---
+
+# 5. Mecânica
+
+---
+
+# 6. Funilaria
+
+---
+
+# 7. Tapeçaria
