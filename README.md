@@ -38,6 +38,13 @@ Meu sistema de organização no momento são as anotações e gravações. Eu an
 
 # 4. Auto-Elétrica
 
+### 4.x - Faróis
+#### Faróis Dianteiros
+Os Faróis Dianteiros apresentavam danos e envelhecimento, sendo necessário revisão e testes.
+A seta direita estava com a lente da estrutura quebrada, assim se fazendo necessário a troca desta.
+
+
+
 ---
 
 # 5. Mecânica
