@@ -21,6 +21,11 @@ Na pasta "Fotos do Início" teremos algumas fotos de como eu peguei o carro do a
 
 # 1. Planejamento do Projeto
 
+### Sistema de Organização
+Mexer em um carro, requer muita organização (principalmente se você não sabe bem o que está fazendo). Desmontar, remontar, refazer, restaura, tudo isso vai precisar de passos a serem seguidos, e então, não tem para onde fugir você tem que organizar tudo o que está fazendo, desde um parafuso, até o encaixe correto de uma peça. É possível que existam procedimentos em manuais, mas a execução é por sua conta e risco.
+
+Meu sistema de organização no momento são as anotações e gravações. Eu anoto tudo o que estou fazendo e gravo tudo que estou desmontando, tiro fotos dos parafusos e de onde estavam encaixados. Esse é o jeito que eu acho mais preciso para poder saber onde cada coisa estava.
+
 ---
 
 # 2. Checklist do que é necessário
