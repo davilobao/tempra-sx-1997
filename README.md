@@ -53,6 +53,10 @@ A seta direita estava com a lente da estrutura quebrada, assim se fazendo necess
 
 # 6. Funilaria
 
+## 4.x - Assoalho
+Fiquei curioso em saber como estava a situação do assoalho, para ver se estava com algum tipo de ferrugem ou dano.
+E realmente não houve surpresa. O assoalho estava bem enferrujado, mas para conseguir acessar ele todo, tive que fazer os seguintes passos:
+
 ---
 
 # 7. Tapeçaria
